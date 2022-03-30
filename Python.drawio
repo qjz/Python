@@ -1,1 +1,97 @@
-<mxfile host="app.diagrams.net" modified="2022-03-30T18:17:04.730Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.4 Safari/605.1.15" etag="a8k47bXtAIQ8fd9jxeMo" version="17.3.0" type="github"><diagram id="f7igN_PYlKPxjjrSWDxX" name="Page-1">jZJNb4MwDIZ/DcdJEFraXsfajcNUaUzaOSMuiRQwSkOB/fqFYb5UVdopzmPHsV/bC+OifTW8ku8oQHvMF60XvniMBeywd0dPuoHso+0AcqMEBc0gVT9A0CdaKwHXVaBF1FZVa5hhWUJmV4wbg8067IJ6/WvFc7gDacb1Pf1Swkrqgu1m/gYql+PPQXQYPAUfg6mTq+QCmwUKj14YG0Q7WEUbg+7FG3UZ3p0eeKfCDJT2Pw82PvsoztE52ew+k+SCOd6+nyjLjeuaGqZibTcqYLAuBfRJfC98bqSykFY8672Nm7lj0hba3QJnUjowFtqHdQZT925tAAuwpnMh9IBtSTDaGObTvZn1D0ZR5UL7iBinkedT6lkVZ5Aw43UewJ9vscbh8Rc=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-03-30T23:15:06.845Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.4 Safari/605.1.15" etag="FHVa1oS5xkNsE6XtFPE2" version="17.3.0" type="github">
+  <diagram id="f7igN_PYlKPxjjrSWDxX" name="Page-1">
+    <mxGraphModel dx="1298" dy="893" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="fjqLG9jufIr7hQlXoKtr-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="402RmO6OI47TIIfogovb-1" target="fjqLG9jufIr7hQlXoKtr-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fjqLG9jufIr7hQlXoKtr-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="402RmO6OI47TIIfogovb-1" target="fjqLG9jufIr7hQlXoKtr-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="402RmO6OI47TIIfogovb-1" value="I/O from terminal" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="180" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fjqLG9jufIr7hQlXoKtr-1" value="input()" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fjqLG9jufIr7hQlXoKtr-3" value="print()" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fjqLG9jufIr7hQlXoKtr-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fjqLG9jufIr7hQlXoKtr-5" target="fjqLG9jufIr7hQlXoKtr-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fjqLG9jufIr7hQlXoKtr-5" value="The &lt;br&gt;Zen of Python" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fjqLG9jufIr7hQlXoKtr-6" value="import this" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fjqLG9jufIr7hQlXoKtr-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="fjqLG9jufIr7hQlXoKtr-8" target="fjqLG9jufIr7hQlXoKtr-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fjqLG9jufIr7hQlXoKtr-8" value="pip usage" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fjqLG9jufIr7hQlXoKtr-9" value="&amp;gt;_ pip" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fjqLG9jufIr7hQlXoKtr-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fjqLG9jufIr7hQlXoKtr-11" target="fjqLG9jufIr7hQlXoKtr-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fjqLG9jufIr7hQlXoKtr-11" value="Кодировка файла" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="860" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fjqLG9jufIr7hQlXoKtr-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="fjqLG9jufIr7hQlXoKtr-12" target="fjqLG9jufIr7hQlXoKtr-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fjqLG9jufIr7hQlXoKtr-12" value="# -*- coding: encoding -*-&lt;br&gt;(module codecs)" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="840" y="320" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fjqLG9jufIr7hQlXoKtr-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fjqLG9jufIr7hQlXoKtr-14" target="fjqLG9jufIr7hQlXoKtr-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fjqLG9jufIr7hQlXoKtr-14" value="shebang" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1060" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fjqLG9jufIr7hQlXoKtr-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="fjqLG9jufIr7hQlXoKtr-15" target="fjqLG9jufIr7hQlXoKtr-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fjqLG9jufIr7hQlXoKtr-15" value="#!/usr/bin/env python3" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="320" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fjqLG9jufIr7hQlXoKtr-17" value="&lt;div style=&quot;text-align: left&quot;&gt;#!/usr/bin/env python3&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;# -*- coding: encoding -*-&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="940" y="440" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fjqLG9jufIr7hQlXoKtr-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fjqLG9jufIr7hQlXoKtr-21" target="fjqLG9jufIr7hQlXoKtr-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fjqLG9jufIr7hQlXoKtr-21" value="exec(object, globals, locals)" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1241" y="180" width="199.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fjqLG9jufIr7hQlXoKtr-22" value="exec object in globals, locals" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1240.5" y="320" width="199" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fjqLG9jufIr7hQlXoKtr-24" value="Игнорируемые исключения" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="580" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fjqLG9jufIr7hQlXoKtr-25" value="&lt;font style=&quot;font-size: 20px&quot;&gt;!&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="30" y="595" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fjqLG9jufIr7hQlXoKtr-26" value="sys.maxint(maxsize)" style="whiteSpace=wrap;html=1;fontSize=12;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="1480" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fjqLG9jufIr7hQlXoKtr-27" value="Идентичность встроенных типов (is и id)" style="whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="120" y="680" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fjqLG9jufIr7hQlXoKtr-28" value="docker &amp;nbsp;run - it python:3.x&lt;br&gt;x means latest" style="whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="1640" y="180" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fjqLG9jufIr7hQlXoKtr-29" value="eggs &amp;amp; wheels" style="whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="1840" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
